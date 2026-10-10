@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Filozofia - Veliki Mislioci i Mudrost",
+  "short_name": "Filozofia",
+  "description": "Mobilna filozofska riznica: veliki mislioci, pojmovnik i časovne zanimljivosti.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f1013",
+  "theme_color": "#121316",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

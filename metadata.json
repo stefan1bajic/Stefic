@@ -1,0 +1,6 @@
+{
+  "name": "Filozofia - Veliki Mislioci i Mudrost",
+  "description": "Mobilna filozofska riznica: veliki svetski filozofi, detaljan rečnik filozofskih pojmova, fascinantne zanimljivosti i časovna obaveštenja sa omiljenim citatima.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

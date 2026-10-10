@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#121316"/>
+  <circle cx="256" cy="256" r="210" stroke="#d97706" stroke-width="6" stroke-opacity="0.4"/>
+  <!-- Classical Athenian temple pediment -->
+  <path d="M120 200 L256 120 L392 200 Z" fill="#d97706"/>
+  <rect x="130" y="210" width="252" height="16" rx="4" fill="#fbbf24"/>
+  <!-- Columns -->
+  <rect x="150" y="236" width="26" height="130" rx="4" fill="#f59e0b"/>
+  <rect x="210" y="236" width="26" height="130" rx="4" fill="#f59e0b"/>
+  <rect x="276" y="236" width="26" height="130" rx="4" fill="#f59e0b"/>
+  <rect x="336" y="236" width="26" height="130" rx="4" fill="#f59e0b"/>
+  <!-- Base steps -->
+  <rect x="120" y="374" width="272" height="18" rx="4" fill="#fbbf24"/>
+  <rect x="96" y="398" width="320" height="20" rx="6" fill="#d97706"/>
+  <!-- Wisdom flame -->
+  <circle cx="256" cy="174" r="14" fill="#fef3c7"/>
+</svg>
